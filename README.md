@@ -1,0 +1,1 @@
+Hello this is my MacroPad Project. The PCB's all messy and dont even talk about the 3d model which ı havent even done and still need to do in the near future. 
